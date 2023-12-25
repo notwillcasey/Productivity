@@ -1,0 +1,33 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+
+.masthead {
+  font-family: sans-serif;
+  background-color: gray;
+  height: 10%;
+  width: auto;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.pomodoro {
+  background-color: darkgray;
+  height: 25%;
+  width: auto;
+}
+
+.agile {
+  background-color: lightslategrey;
+  height: 60%;
+  width: auto;
+}
